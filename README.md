@@ -77,7 +77,7 @@ This dashboard uses **simulated e-commerce data**, including:
 
 ## 📬 Contact
 
-**Pakhi Sharma**  
+**Ishita Bhargava**  
 📧 ishitabhargava03@gmail.com 
 🔗 [LinkedIn Profile] www.linkedin.com/in/
 
